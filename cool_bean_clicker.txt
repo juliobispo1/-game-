@@ -1,0 +1,10 @@
+Let's make a game!
+  name:Cool Bean Clicker
+  author:Julio Bispo
+  desc:make something cool they said,it will be fun they said.
+  created:12/05/2020
+  updated:12/05/2020
+  version 0.1
+
+Settings
+  
