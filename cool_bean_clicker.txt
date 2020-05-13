@@ -4,13 +4,13 @@ Let's make a game!
   desc:make something cool they said,it will be fun they said.
   created:12/05/2020
   updated:13/05/2020
-  version:0.31
+  version:0.35
 //0.25: i hope this works
 //0.3: cringe sintax error
 //0.31:help
 
 Settings
-  background:raw.githubusercontent.com/juliobispo1/cool-bean-clicker/master/beans_background.jpg
+  background:https://raw.githubusercontent.com/juliobispo1/cool-bean-clicker/master/beans_background.jpg
 
 Layout:
   use default
