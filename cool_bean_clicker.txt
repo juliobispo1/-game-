@@ -14,4 +14,4 @@ Settings
 
 Layout:
   use default
-
+//woohoo the game works! now i got make the background show up.
