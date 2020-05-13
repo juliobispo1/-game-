@@ -3,8 +3,12 @@ Let's make a game!
   author:Julio Bispo
   desc:make something cool they said,it will be fun they said.
   created:12/05/2020
-  updated:12/05/2020
+  updated:13/05/2020
   version 0.1
 
 Settings
-  
+  background:raw.githubusercontent.com/juliobispo1/cool-bean-clicker/master/beans_background.jpg
+
+Layout:
+  use default
+
