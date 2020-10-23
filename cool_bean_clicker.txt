@@ -9,6 +9,18 @@ Let's make a game!
 //0.3: cringe sintax error
 //0.31:help
 
+*beans
+name:Beans
+desc:the beans you have
+text:You have [?(this=0)|no beans|[this] beans]
+tag:resource
+
+*coolbean|coolbeanbutton
+name:Cool Bean
+desc:a cool bean
+icon:https://raw.githubusercontent.com/juliobispo1/cool-bean-clicker/master/cool_bean_button.jpg
+on click:
+
 Settings
   background:https://raw.githubusercontent.com/juliobispo1/cool-bean-clicker/master/beans_background.jpg
 
