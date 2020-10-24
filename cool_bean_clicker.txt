@@ -22,6 +22,7 @@ name:Cool Bean
 desc:a cool bean
 icon:https://raw.githubusercontent.com/juliobispo1/cool-bean-clicker/master/cool_bean_button.jpg
 on click:yield 1 beans
+class:bigButton hasFlares
 
 Settings
   background:https://raw.githubusercontent.com/juliobispo1/cool-bean-clicker/master/beans_background.jpg
