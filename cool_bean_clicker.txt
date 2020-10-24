@@ -13,7 +13,7 @@ Buildings
 *beanclicker|coolbeanclicker
 name:Cool Bean Clicker
 desc:they click the cool bean
-costs:10 beans
+cost:10 beans
 on tick:yield 1 beans
 
 Resources
