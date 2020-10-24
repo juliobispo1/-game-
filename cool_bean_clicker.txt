@@ -14,7 +14,7 @@ Buildings
 name:Cool Bean Clicker
 desc:they click the cool bean
 on tick:yield 1 beans
-cost: 10 beans
+cost:100 beans
 
 Resources
 *beans
