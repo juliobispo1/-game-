@@ -9,6 +9,13 @@ Let's make a game!
 //0.3: cringe sintax error
 //0.31:help
 
+Buildings
+*beanclicker|coolbeanclicker
+name:Cool Bean Clicker
+desc:they click the cool bean
+costs:10 beans
+on tick:yield 1 beans
+
 Resources
 *beans
 name:Beans
